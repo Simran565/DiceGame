@@ -1,0 +1,40 @@
+body{
+    background-color: #FFF4E0;
+    text-align: center;
+    color: #B46060;
+    font-family: 'Satisfy', cursive;
+}
+
+h1{
+    font-size: 8rem;
+    margin: 50px 0;
+}
+
+h2{
+    color: #245953;
+    margin-bottom: 50px;
+}
+
+
+
+.dice{
+    display: inline-block;
+    
+    
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+img{
+    width: 80%;
+    
+}
+
+footer{
+    margin-top: 5%;
+    
+}
+
